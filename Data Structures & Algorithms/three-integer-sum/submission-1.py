@@ -26,3 +26,5 @@ class Solution:
                     k -= 1
                     
         return res
+
+# submission 2 is better 
